@@ -1,0 +1,2 @@
+Evaluación T2 de Lenguaje de Programación II.
+En esta actividad practico git diff, staging, git reset y git restore.

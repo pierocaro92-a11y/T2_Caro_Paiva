@@ -16,3 +16,9 @@ Evaluación 02 de Lenguaje de Programación II, sección T4MO, grupo 00.
 ## Control de cambios
 
 En esta actividad comparé los cambios del Working Directory y del Staging Area. Preparé selectivamente los archivos solicitados y conservé observaciones.txt como anotación de la evaluación.
+
+## Gestión de ramas
+
+Rama utilizada: `feature-caro`.
+
+Se desarrolló la clase `ControlVersion_Caro.java` en una rama independiente y luego se integró su contenido en `main`.
